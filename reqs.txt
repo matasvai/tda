@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+opencv-python
+pillow
+scipy
+torch
+torchvision
+gudhi
+tqdm
